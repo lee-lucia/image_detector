@@ -1,0 +1,2 @@
+model,weights,weight_size_mb,imgsz,batch,warmup,iterations,device,half,latency_ms,latency_std_ms,fps,precision,recall,map50,map50_95,map50_per_param,map50_95_per_param
+YOLOv8n,/root/ultralytics-main/runs/train/yolov8s-DUO/weights/best.pt,21.48,640,1,200,1000,cuda:0,False,4.8385,0.2018,206.67,0.8577,0.7955,0.8626,0.6911,0.0402,0.0322
